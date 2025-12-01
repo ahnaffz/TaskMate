@@ -1,8 +1,8 @@
-# TaskMate App 📝
+# TaskMate App 
 
 Aplikasi manajemen tugas produktif untuk membantu mahasiswa dan profesional mengatur jadwal harian. Dibuat dengan Flutter, Riverpod, dan Firebase.
 
-## 🚀 Cara Menjalankan Proyek (Setup)
+## Cara Menjalankan Proyek (Setup)
 
 Ikuti langkah ini untuk menjalankan aplikasi di komputer Anda:
 
