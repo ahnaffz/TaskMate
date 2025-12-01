@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "150499881272",
+    "project_id": "taskmate-7f167",
+    "storage_bucket": "taskmate-7f167.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150499881272:android:c2744436ddc91c226751cd",
+        "android_client_info": {
+          "package_name": "com.example.taskmate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtD7l0s2PWlA6MXmiroH37Iz42OHrqV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150499881272:android:49e071b4fab737ad6751cd",
+        "android_client_info": {
+          "package_name": "com.example.taskmate_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtD7l0s2PWlA6MXmiroH37Iz42OHrqV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150499881272:android:678d75e3604cd9036751cd",
+        "android_client_info": {
+          "package_name": "com.example.taskmate_final_rev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtD7l0s2PWlA6MXmiroH37Iz42OHrqV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150499881272:android:23b61089e3c504c76751cd",
+        "android_client_info": {
+          "package_name": "com.example.taskmate_fix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtD7l0s2PWlA6MXmiroH37Iz42OHrqV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150499881272:android:91b70e935fffc7e26751cd",
+        "android_client_info": {
+          "package_name": "com.kelompok10.taskmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtD7l0s2PWlA6MXmiroH37Iz42OHrqV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
