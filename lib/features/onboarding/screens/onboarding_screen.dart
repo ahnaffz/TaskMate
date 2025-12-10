@@ -1,6 +1,8 @@
+import 'package:taskmate_app/features/dashboard/screens/home_page_grid.dart';
 import 'package:flutter/material.dart';
 import '../../../core/theme.dart';
 import '../../auth/screens/login_screen.dart';
+
 
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({super.key});
@@ -53,11 +55,11 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  TextButton(onPressed: () => Navigator.pushReplacement(context, MaterialPageRoute(builder: (_) => const LoginScreen())), child: const Text("Skip", style: TextStyle(color: Colors.white))),
+                  TextButton(onPressed: () => Navigator.pushReplacement(context, MaterialPageRoute(builder: (_) => const HomePageGrid())), child: const Text("Skip", style: TextStyle(color: Colors.white))),
                   ElevatedButton(
                     onPressed: () {
                       if (_currentPage == 2) {
-                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (_) => const LoginScreen()));
+                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (_) => const HomePageGrid()));
                       } else {
                         _controller.nextPage(duration: const Duration(milliseconds: 300), curve: Curves.easeIn);
                       }
